@@ -704,13 +704,6 @@ a:focus {
   color: #0355cc;
 }
 
-.contact_section .map_container {
-  height: 360px;
-}
-
-.contact_section .map_container .map {
-  height: 100%;
-}
 
 .info_section {
   padding: 75px 0;
